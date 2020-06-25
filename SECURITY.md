@@ -2,7 +2,9 @@
 
 ## Info
 We don't collect any sensitive data from our users, only the neccessary one.
-The newest Releases always have the best privacy and security.
+The newest Releases always have the best privacy and security. We don't recommend
+using other versions than the Releases, if you don't have a clear understanding
+of programming and software.
 
 ## Supported Versions
 
