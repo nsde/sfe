@@ -1,7 +1,7 @@
-# Welcome to SFE!
+# Welcome to SimpleFileEditor!
 "SimpleFileEditor" is a Text Editor for people, who are not that familiar with tech. We want to keep it as simple as possible with the most important features.
 
-## Why SFE?
+## Reasons for SimpleFileEditor:
 * Simple and easy to understand
 * For free and no advertisements
 * No premium-plans
